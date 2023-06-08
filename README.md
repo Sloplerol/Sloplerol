@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Here!!!](https://github.com/Sloplerol?tab=repositories)
 - ⚡ Fun fact: Coding Fun
 
-![Satrol's GitHub stats](https://github-readme-stats.vercel.app/api?username=Satrol_&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
