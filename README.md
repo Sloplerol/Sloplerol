@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Here!!!](https://github.com/Sloplerol?tab=repositories)
 - ⚡ Fun fact: Coding Fun
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Sloplerol's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sloplerol&show_icons=true&theme=tokyonight)
 
