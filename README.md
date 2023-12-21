@@ -12,3 +12,5 @@ Here are some ideas to get you started:
 
 ![Sloplerol's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sloplerol&show_icons=true&theme=tokyonight)
 
+[![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/Sloplerol)
+
